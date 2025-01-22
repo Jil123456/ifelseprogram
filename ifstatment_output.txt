@@ -1,0 +1,45 @@
+Enter the first number
+2
+Enter the second number
+4
+4 is larger than 2
+Enter the first number
+5
+Enter the second number
+7
+Enter the third number
+100
+The large number is 100 and the smaller number is 5
+Enter the number
+5
+5 is a odd number
+Enter the number
+100
+100 is a divisible by 10
+Enter the age
+58
+Person is major
+Enter the year
+2023
+2023 is not leap year
+Enter the first angle
+60
+Enter the second angle
+70
+Ennter the third angle
+150
+Triangle is invalid
+Enter the number
+-7
+7
+Yes area is greater than perimeter 
+Points not lies on  stright line
+Point lies outside
+Enter the number between 0 to 19
+6
+Six
+A
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
